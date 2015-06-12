@@ -13,7 +13,7 @@
         <item name="colorPrimaryDark">@color/color_primary_dark</item>
     </style>
 
-    <style name="PzActionBarStyle" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+    <style name="PzActionBarStyle" parent="@style/Widget.AppCompat.Light.ActionBar">
         <item name="android:background">@color/actionbar_bg_color</item>
         <item name="android:titleTextStyle">@style/PzActionBarTitleText</item>
 
